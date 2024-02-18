@@ -1,0 +1,10 @@
+[user]
+
+name = NikitaT
+email = ng.telitsyn@outlook.com
+
+[alias]
+
+co = checkout
+br = branch
+ci = commit
