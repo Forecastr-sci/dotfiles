@@ -145,3 +145,4 @@ source "$OSH"/oh-my-bash.sh
 
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
 
+source ~/.local/share/blesh/ble.sh
